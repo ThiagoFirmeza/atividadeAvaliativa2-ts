@@ -64,7 +64,6 @@ class Pocao extends Item {
   }
 
   removerBeneficios(personagem: Personagem): void {
-    // Poções não removem benefícios.
   }
 }
 
